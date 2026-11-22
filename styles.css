@@ -37,8 +37,6 @@ nav {
   border-radius: 24px;
   margin-bottom: 16px;
 }
-
-
 .logo {
   color: #F7E1C3;
   font-size: 30px;
@@ -47,18 +45,12 @@ nav {
   letter-spacing: 2px;
   text-decoration: none;
 }
-
-
 .nav-links {
   display: flex;
 }
-
-
 .nav-links li {
   margin-left: 40px;
 }
-
-
 .nav-links a {
   color: #F7E1C3;
   font-weight: 700;
@@ -66,14 +58,11 @@ nav {
   letter-spacing: 1px;
   text-decoration: none;
 }
-
 .hero {
   display: flex;
   justify-content: space-between;
   margin-bottom: 16px;
 }
-
-
 .hero-text {
   width: 50%;
   box-sizing: border-box;
