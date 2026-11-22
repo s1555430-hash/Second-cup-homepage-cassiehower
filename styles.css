@@ -143,3 +143,131 @@ nav {
   background-position: center;
 }
 
+.strip {
+  display: flex;
+  justify-content: space-around;
+  padding: 20px 40px;
+  background-color: #E2C08D;
+  border-radius: 24px;
+  font-size: 20px;
+  font-weight: 900;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  margin-bottom: 16px;
+}
+
+
+.blends {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 16px;
+}
+
+
+.blend-green, .blend-rust, .blend-tan {
+  width: 32.5%;
+  box-sizing: border-box;
+  padding: 32px;
+  border-radius: 24px;
+}
+
+
+.blend-green {
+  background-color: #243A30;
+  color: #FFFFFF;
+}
+
+
+.blend-rust {
+  background-color: #DA4921;
+  color: #FFFFFF;
+}
+
+
+.blend-tan {
+  background-color: #E2C08D;
+}
+
+
+.blends h2 {
+  font-size: 28px;
+  text-transform: uppercase;
+  margin-bottom: 12px;
+}
+
+
+.blends a {
+  color: inherit;
+  font-weight: 700;
+}
+
+
+.story {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  padding: 96px 64px 40px;
+  background-color: #243A30;
+  color: #F7E1C3;
+  border-radius: 24px;
+  margin-bottom: 16px;
+}
+
+
+.story-intro {
+  width: 34%;
+}
+
+
+.story-label {
+  font-size: 16px;
+  font-weight: 700;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+  color: #E2C08D;
+}
+
+
+.story-intro h2 {
+  font-size: 96px;
+  line-height: 0.95;
+  text-transform: uppercase;
+  color: #E2C08D;
+}
+
+
+.story-cards {
+  width: 60%;
+  display: flex;
+  justify-content: space-between;
+}
+
+
+.step {
+  width: 31%;
+  margin-bottom: 56px;
+}
+
+
+.step img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 16px;
+  margin-bottom: 20px;
+}
+
+
+.step-number {
+  font-size: 16px;
+  font-weight: 700;
+  letter-spacing: 3px;
+  color: #E2C08D;
+  margin-bottom: 8px;
+}
+
+.step h3 {
+  font-size: 32px;
+  color: #FFFFFF;
+  margin-bottom: 8px;
+}
