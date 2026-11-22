@@ -143,14 +143,10 @@ background-color: #000000;
   background-size: cover;
   background-position: center;
 }
-
-
 .hero-small {
   display: flex;
   justify-content: space-between;
 }
-
-
 .hero-stat {
   width: 49%;
   box-sizing: border-box;
