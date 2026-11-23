@@ -81,21 +81,17 @@ nav {
   color: #F7E1C3;
   margin-bottom: 28px;
 }
-
-
 .hero h1 {
   font-size: 80px;
   line-height: 1;
   text-transform: uppercase;
   margin-bottom: 28px;
 }
-
 .hero-side {
   width: 49%;
   display: flex;
   flex-direction: column;
 }
-
 .button{
 display: inline-block;
 padding: 20px 44px;
